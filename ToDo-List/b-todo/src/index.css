@@ -1,0 +1,22 @@
+*{
+ /* background-color: gray; */
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box; 
+}
+
+header{
+background-color: blue;
+text-align: center;
+height: 2rem;
+}
+main{
+  text-align: center;
+  height: 20rem;
+  background-color: gray;
+}
+footer{
+  text-align: center;
+  background-color: blue;
+  
+}

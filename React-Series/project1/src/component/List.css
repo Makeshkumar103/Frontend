@@ -1,0 +1,24 @@
+.ol-li{
+    background-color:yellowgreen;
+    /* height: 100vh;width: 100%; */
+    /* min-height: 100vh; */
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+    /* font-size: calc(10px + 2vmin); */
+    color: rgb(47, 13, 238);
+}
+h2{
+    text-shadow: 18px;
+    
+    /* color: red; */
+}
+
+ol>li{
+    color: Blue;
+}
+ol,li{
+    border: 2px solid white;
+    border-collapse:collapse;
+}
